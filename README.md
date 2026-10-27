@@ -1,5 +1,4 @@
-# Design-for-Change-Consulting-Toolkit
-A consultative toolkit for assessing a Moodle learning ecosystem, identifying practical improvement priorities, and producing a manageable 10-day roadmap for Moodle Learning Designers, LMS administrators, L&amp;D consultants, and small implementation teams who need a simple way to move from discovery to action
+
 # Moodle Learning Ecosystem Design-for-Change Toolkit
 
 A compact, consultative toolkit for assessing a Moodle learning ecosystem, identifying practical improvement priorities, and producing a manageable 10-day roadmap.
@@ -170,5 +169,15 @@ This repository demonstrates the ability to:
 
 ## Example scenario
 
-The repository includes a fictional case study, **MidSize Services Organization**, used only to illustrate how the templates work. It does not represent a real client or include
-<img width="956" height="3182" alt="image" src="https://github.com/user-attachments/assets/cf6445db-9577-4b00-88d9-9d88fd6c0ae1" />
+The repository includes a fictional case study, **MidSize Services Organization**, used only to illustrate how the templates work. It does not represent a real client or include real organizational data.
+
+## License and use
+
+This toolkit is intended for learning, consulting, and internal organizational use. Adapt the templates to your context, but retain clear attribution where appropriate.
+
+## Next page
+
+Continue to the project foundation:
+
+[01 — Project Charter](docs/01-project-charter.md)
+```
