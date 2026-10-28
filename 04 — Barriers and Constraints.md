@@ -229,4 +229,4 @@ Before moving to the Prioritization Matrix, confirm that each important barrier 
 
 Continue to prioritization:
 
-**[05 — Prioritization Matrix](docs/05-prioritization-matrix.md)**
+**[05 — Prioritization Matrix](https://github.com/hernandez-jc/Design-for-Change-Consulting-Toolkit/blob/main/05%20%E2%80%94%20Prioritization%20Matrix.md)**
