@@ -181,4 +181,4 @@ Before moving to the Executive Brief, confirm that:
 
 Continue to the stakeholder summary:
 
-**[07 — Executive Brief](docs/07-executive-brief.md)**
+**[07 — Executive Brief](https://github.com/hernandez-jc/Design-for-Change-Consulting-Toolkit/blob/main/07%20%E2%80%94%20Executive%20Brief.md)**
