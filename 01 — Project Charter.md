@@ -241,5 +241,5 @@ Before moving to discovery, the project sponsor should confirm:
 
 Continue to stakeholder discovery:
 
-**[02 — Client Discovery](docs/02-client-discovery.md)**
+**[02 — Client Discovery](https://github.com/hernandez-jc/Design-for-Change-Consulting-Toolkit/blob/main/02%20%E2%80%94%20Client%20Discovery.md)**
 ```
