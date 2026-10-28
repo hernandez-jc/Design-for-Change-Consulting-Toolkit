@@ -4,7 +4,7 @@ This scorecard converts discovery findings into a simple current-state assessmen
 
 It helps the project team identify what is working, what needs improvement, and which issues should be considered for the 10-day roadmap.
 
-Use the findings from **[02 — Client Discovery](docs/02-client-discovery.md)** to complete this scorecard.
+Use the findings from **[02 — Client Discovery](https://github.com/hernandez-jc/Design-for-Change-Consulting-Toolkit/blob/c38f5fed710ce717e3d7f7ff6a697b4568880d49/02%20%E2%80%94%20Client%20Discovery.md)** to complete this scorecard.
 
 ---
 
