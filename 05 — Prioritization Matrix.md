@@ -1,6 +1,6 @@
 # 05 — Prioritization Matrix
 
-This page converts the barriers, constraints, risks, and dependencies recorded in **[04 — Barriers and Constraints](docs/04-barriers-and-constraints.md)** into a short list of practical improvement priorities.
+This page converts the barriers, constraints, risks, and dependencies recorded in **[04 — Barriers and Constraints](https://github.com/hernandez-jc/Design-for-Change-Consulting-Toolkit/blob/main/04%20%E2%80%94%20Barriers%20and%20Constraints.md)** into a short list of practical improvement priorities.
 
 Its purpose is to select a manageable number of actions for the 10-day roadmap. The goal is not to solve every issue, but to identify the improvements with the greatest practical value within the project’s constraints.
 
