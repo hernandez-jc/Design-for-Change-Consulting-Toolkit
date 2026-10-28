@@ -1,6 +1,9 @@
 
 # Moodle Learning Ecosystem Design-for-Change Toolkit
 
+![alt text](https://github.com/hernandez-jc/Design-for-Change-Consulting-Toolkit/blob/main/assets/Moodle-ecosystem-image.jpg)
+
+
 A compact, consultative toolkit for assessing a Moodle learning ecosystem, identifying practical improvement priorities, and producing a manageable 10-day roadmap.
 
 This project is designed for Moodle Learning Designers, LMS administrators, L&D consultants, and small implementation teams who need a simple way to move from discovery to action without overcomplicating the process.
