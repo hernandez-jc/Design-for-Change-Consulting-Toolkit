@@ -298,4 +298,4 @@ At the end of discovery, the project team should have:
 
 Continue to the current-state assessment:
 
-**[03 — Learning Checkup Scorecard]([docs/03-learning-checkup-scorecard.mdhttps://github.com/hernandez-jc/Design-for-Change-Consulting-Toolkit/blob/main/03%20%E2%80%94%20Learning%20Checkup%20Scorecard.md](https://github.com/hernandez-jc/Design-for-Change-Consulting-Toolkit/blob/main/03%20%E2%80%94%20Learning%20Checkup%20Scorecard.md))**
+**[03 — Learning Checkup Scorecard](https://github.com/hernandez-jc/Design-for-Change-Consulting-Toolkit/blob/main/03%20%E2%80%94%20Learning%20Checkup%20Scorecard.md))**
