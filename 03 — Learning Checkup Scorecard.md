@@ -233,4 +233,4 @@ Before moving to the next page, confirm that:
 
 Continue to barriers, constraints, and change readiness:
 
-**[04 — Barriers and Constraints](docs/04-barriers-and-constraints.md)**
+**[04 — Barriers and Constraints](https://github.com/hernandez-jc/Design-for-Change-Consulting-Toolkit/blob/main/04%20%E2%80%94%20Barriers%20and%20Constraints.md)**
