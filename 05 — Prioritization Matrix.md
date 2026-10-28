@@ -160,5 +160,5 @@ Before creating the roadmap, confirm that:
 
 Continue to the action plan:
 
-**[06 — 10-Day Roadmap](docs/06-10-day-roadmap.md)**
+**[06 — 10-Day Roadmap](https://github.com/hernandez-jc/Design-for-Change-Consulting-Toolkit/blob/main/06%20%E2%80%94%2010-Day%20Roadmap.md)**
 ```
