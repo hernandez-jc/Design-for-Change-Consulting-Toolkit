@@ -4,7 +4,7 @@ This page converts the findings from the Learning Checkup Scorecard into a clear
 
 Its purpose is to help the project team understand what may prevent learners, administrators, content, or the organization from achieving the intended learning outcomes.
 
-Use the findings from **[03 — Learning Checkup Scorecard](docs/03-learning-checkup-scorecard.md)** to complete this page.
+Use the findings from **[03 — Learning Checkup Scorecard](https://github.com/hernandez-jc/Design-for-Change-Consulting-Toolkit/blob/2c6b2fb86ec94e2429259ab42574b94e0a193968/03%20%E2%80%94%20Learning%20Checkup%20Scorecard.md)** to complete this page.
 
 ---
 
