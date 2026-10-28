@@ -182,5 +182,5 @@ This toolkit is intended for learning, consulting, and internal organizational u
 
 Continue to the project foundation:
 
-[01 — Project Charter](docs/01-project-charter.md)
+[01 — Project Charter](https://github.com/hernandez-jc/Design-for-Change-Consulting-Toolkit/blob/main/01%20%E2%80%94%20Project%20Charter.md)
 ```
