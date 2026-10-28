@@ -1,6 +1,6 @@
 # 06 — 10-Day Roadmap
 
-This roadmap turns the selected priorities from **[05 — Prioritization Matrix](docs/05-prioritization-matrix.md)** into a practical, manageable 10-working-day action plan.
+This roadmap turns the selected priorities from **[05 — Prioritization Matrix](https://github.com/hernandez-jc/Design-for-Change-Consulting-Toolkit/blob/main/05%20%E2%80%94%20Prioritization%20Matrix.md)** into a practical, manageable 10-working-day action plan.
 
 Its purpose is to deliver or meaningfully advance a small number of improvements that support learner adoption, administrator usability, content quality, accessibility, and organizational change readiness.
 
